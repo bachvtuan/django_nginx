@@ -1,4 +1,3 @@
-# Stratch django app worked with nginx by using uwsgi middleware
 ## How it worked
 * The example host in this example is :http://django.test (you can append *127.0.0.1 django.test* in /etc/hosts)
 * Create nginx configuration file which point to socket where uwsgi is listening
